@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./letter-d.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -15,20 +15,27 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
+import java from "./tech/java.png";
+import cplus from "./tech/c-.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import meta from "./company/c-.png";
+import shopify from "./company/backend.png";
+import starbucks from "./company/fullstack.png";
+import tesla from "./company/development.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+
 import tripguide from "./tripguide.png";
+import weather from "./weather.png";
+import tripguideVideo from "./tripguideVideo.mp4";
+import chatappVideo from "./chatapp.mp4";
+import betterlinks from "./BetterLink.mp4";
 
 export {
   logo,
@@ -49,6 +56,8 @@ export {
   nodejs,
   reactjs,
   redux,
+  java,
+  cplus,
   tailwind,
   typescript,
   threejs,
@@ -59,4 +68,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  weather,
+  tripguideVideo,
+  chatappVideo,
+  betterlinks,
 };
