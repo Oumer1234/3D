@@ -1,0 +1,11 @@
+Model Information:
+* title:	Web Programming VR
+* source:	https://sketchfab.com/3d-models/web-programming-vr-f1027f15996446b1a242cd34b8007d17
+* author:	jgrounds (https://sketchfab.com/jgrounds)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Web Programming VR" (https://sketchfab.com/3d-models/web-programming-vr-f1027f15996446b1a242cd34b8007d17) by jgrounds (https://sketchfab.com/jgrounds) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

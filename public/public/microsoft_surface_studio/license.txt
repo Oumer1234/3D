@@ -1,0 +1,11 @@
+Model Information:
+* title:	Microsoft Surface Studio
+* source:	https://sketchfab.com/3d-models/microsoft-surface-studio-f67b9ba53f5e4b93b53f3a9cfceb9acc
+* author:	Sidharth1 (https://sketchfab.com/Sidharth1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Microsoft Surface Studio" (https://sketchfab.com/3d-models/microsoft-surface-studio-f67b9ba53f5e4b93b53f3a9cfceb9acc) by Sidharth1 (https://sketchfab.com/Sidharth1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
