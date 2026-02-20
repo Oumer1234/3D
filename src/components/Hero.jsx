@@ -29,7 +29,7 @@ const Hero = () => {
             transition={{ duration: 1, delay: 0.5 }}
             className={`${styles.heroSubText} mt-2 text-white-100`}
           >
-            Aspiring software developer creating
+            Aspiring software developer creating  
             <br className="sm:block hidden" />
             innovative solutions
           </motion.p>
